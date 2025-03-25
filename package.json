@@ -1,6 +1,6 @@
 {
     "name": "@ccervantesb/cordova-plugin-application-info",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "This plugin allows get the application information from the app.",
     "cordova": {
       "id": "com.ccervantesb.appinfo",
